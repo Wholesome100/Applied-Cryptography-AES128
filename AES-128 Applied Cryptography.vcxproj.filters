@@ -27,6 +27,9 @@
     <ClCompile Include="project_files\src\aes_128_key_expansion.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="project_files\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="project_files\include\aes_128_common.h">

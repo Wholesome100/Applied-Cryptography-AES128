@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="project_files\main.cpp" />
     <ClCompile Include="project_files\src\aes_128_common.cpp" />
     <ClCompile Include="project_files\src\aes_128_decrypt.cpp" />
     <ClCompile Include="project_files\src\aes_128_encrypt.cpp" />
